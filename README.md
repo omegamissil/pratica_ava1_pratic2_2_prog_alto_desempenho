@@ -1,0 +1,1 @@
+Este repositório contém um script em Python desenvolvido para demonstrar o comportamento de múltiplas threads (8 threads) acessando e modificando simultaneamente um recurso compartilhado, ilustrando a ocorrência de condições de corrida (race conditions) e a importância de mecanismos de sincronização.
