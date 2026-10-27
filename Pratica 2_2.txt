@@ -1,7 +1,7 @@
 import threading
 import time
 
-NUM_THREADS = 8
+NUM_THREADS = 12
 INCREMENTOS_POR_THREAD = 1000
 ATRASO_DIDATICO = 0.00001
 
